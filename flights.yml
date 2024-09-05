@@ -2,7 +2,7 @@ server:
   port: 8080
 
 build:
-  version: "3.0"
+  version: "4.0"
 
 management:
   endpoints:
