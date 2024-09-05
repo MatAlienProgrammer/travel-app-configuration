@@ -1,0 +1,11 @@
+server:
+  port: 8060
+
+build:
+  version: "12.0"
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
