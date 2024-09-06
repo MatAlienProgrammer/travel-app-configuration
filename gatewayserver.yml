@@ -13,5 +13,5 @@ management:
 logging:
   level:
     it:
-      biblioteca:
+      travel:
         gatewayserver: DEBUG
