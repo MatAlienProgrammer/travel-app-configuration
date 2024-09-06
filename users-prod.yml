@@ -1,5 +1,8 @@
 server:
   port: 8090
+  servlet:
+    context-path: /users
+
 
 build:
   version: "4.0"
