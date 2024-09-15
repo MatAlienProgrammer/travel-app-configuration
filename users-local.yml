@@ -2,7 +2,7 @@ server:
   port: 8090
 
 build:
-  version: "8.0"
+  version: "9.0 - local"
 
 management:
   endpoints:
