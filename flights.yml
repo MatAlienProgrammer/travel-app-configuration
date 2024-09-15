@@ -33,4 +33,4 @@ logging:
   level:
     it:
       travel:
-        users: DEBUG
+        flights: DEBUG
